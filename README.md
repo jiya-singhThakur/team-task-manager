@@ -139,7 +139,7 @@ You can register directly on the live app. Select **Admin** role to access full 
 | Delete Task | ✅ | ❌ |
 | Update Task Status | ✅ | ✅ |
 | View Dashboard | ✅ | ✅ |
-| View Overdue Tasks | ✅ | ✅ (own only) |
+
 
 ---
 
